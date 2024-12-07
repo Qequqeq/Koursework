@@ -1,0 +1,1 @@
+RSA.py is using for encrypt symmetrik-key in server and decrypt it in client. AES256.py is usig for send encrypted messages from client and decrypt messages in server. To start just install libraries from requirements.txt, start sever and start client.
